@@ -41,7 +41,7 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](./image/myweb.png)
+![OUTPUT](./image/gitup myweb.png)
 
 ## RESULT:
 this programm is exicuted successfully
